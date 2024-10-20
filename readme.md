@@ -4,7 +4,7 @@ Welcome to the **Pentest Labs** repository! This project provides hands-on labs 
 
 ## 📖 About
 
-This repository contains a series of labs that simulate real-world scenarios, where you'll learn to exploit vulnerabilities in server environments, specifically targeting Windows systems running Microsoft SQL Server 2014. These labs provide practical experience with various tools and techniques used in network and system exploitation.
+This repository contains a series of labs that simulate real-world scenarios, where you'll learn to exploit vulnerabilities in server environments. These labs provide practical experience with various tools and techniques used in network and system exploitation.
 
 The labs cater to both beginners and experienced pentesters, offering detailed instructions and opportunities for independent exploration.
 
